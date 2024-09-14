@@ -1,6 +1,8 @@
 {
 		"2": [],
-		"24": ["https://apph5.gdbet-viph5g.com", "https://apph5.gdbet-viph5h.com", "https://apph5.gdbet-viph5i.com"],
+		"24": ["https://apph5.gdbet-viph5g.com", "https://apph5.gdbet-viph5h.com", "https://apph5.gdbet-viph5i.com",
+            "https://api.cc31e9b8672b.biz:51492",
+            "https://api.3ac7b5152e62.biz:51573"],
 		"3": ["https://api.b78efcfd10a5.biz", "https://api.c014c0888c54.biz", "https://api.709bba80d3d3.biz"],
 		"50": [],
 		"51": []
