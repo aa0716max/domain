@@ -1,9 +1,7 @@
 {
     "2": [],
     "24": ["https://apph5.gdbet-viph5g.com", "https://apph5.gdbet-viph5h.com"
-, "https://apph5.gdbet-viph5i.com"
-, "apph5.gdbet-viph5f.com:51374"
-, "apph5.gdbet-viph5d.com:51023"],
+, "https://apph5.gdbet-viph5i.com"],
     "3": ["https://api.b78efcfd10a5.biz",
     "https://api.c014c0888c54.biz",
     "https://api.gdbet1-downloadsapp.com", 
@@ -11,8 +9,6 @@
     "https://api.gd22-app4download.com", 
     "https://api.gdbetapp-download22.com", 
     "https://api.gdbet3-4download1app.com", 
-    "https://api.cc31e9b8672b.biz:51492", 
-    "https://api.3ac7b5152e62.biz:51573", 
     "https://api.709bba80d3d3.biz"],
     "50": [],
     "51": []
